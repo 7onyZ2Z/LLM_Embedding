@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 def main():
     # 指定需要读取的文件路径
-    file_path = "strategy.txt"  # 请确保文件路径正确
+    file_path = "strategies.txt"  # 请确保文件路径正确
     output_path = "output.json"  # 保存 embedding 结果的文件路径
     api_key = "sk-F3g5KjVFEbzyRaxUiAsrRwmPTsKGu76xoE3dQEzr0dkbh2Vj"  # 替换为你的实际 API 密钥
 
