@@ -1,6 +1,50 @@
-Persuasive Strategies: - Greet: Initiate conversation or engage in small talk. - Inquire: Ask about product, year, price, condition, etc. - Inform: Provide product details, year, condition, etc. - Propose: Offer a specific price or price range. - Counter: Suggest a new price or price range. - Counter-noprice: Use vague comparative language to propose a price. - Confirm: Ask questions to verify information. - Affirm: Give a positive response to a confirmation question. - Deny: Give a negative response to a confirmation question. - Agree: Accept the proposed price. - Disagree: Reject the proposed price.
-Resistant Strategies: - Source Derogation: Attack or question the opponent or item. - Counter Argument: Provide impersonal arguments or factual rebuttals. - Personal Choice: Give personal reasons for refusal or conditional acceptance. - Information Inquiry: Request clarification or more information. - Self Pity: Use self-pity to reject current conditions. - Hesitance: Delay or show uncertainty in decision-making. - Self-assertion: Assert a new claim or counter confidently. - Others: Unclear behaviors that hinder negotiation.
-Persuasive Strategies: - Informative: Provide clear, factual information to correct errors. - Denouncing: Strongly condemn and reject hateful speech. - Question: Ask thoughtful questions to challenge validity. - Positive: Emphasize positive values and inclusiveness. - Humour: Use humor to defuse hate speech. - Other: Other creative response strategies.
-Resistant Strategies: - Informative: Provide factual information to challenge the other’s view. - Denouncing: Strongly condemn the opponent’s viewpoint. - Question: Challenge the validity or logic of the opponent’s statement. - Positive: Emphasize positive values. - Humour: Use humor to respond. - Other: Other non-standard strategies.
-Persuasive Strategies: - Logical Appeal: Use logical reasoning and evidence. - Emotional Appeal: Evoke empathy, excitement, or emotional connection. - Credibility Appeal: Emphasize reliability or expertise of the source. - Foot-in-the-Door: Start with a small request before leading to a larger one. - Self-Modeling: Demonstrate positive behavior to encourage imitation. - Personal Story: Share personal experiences to increase empathy. - Donation Information: Provide detailed information about donation use and impact. - Source-Related Inquiry: Question the credibility of the source. - Task-Related Inquiry: Ask about the person’s participation or commitment. - Personal-Related Inquiry: Ask about personal experiences or values to build rapport. - Other: Other creative persuasion strategies.
-Resistant Strategies: - Source Derogation: Attack or question the credibility of the organization. - Counter Argument: Argue that responsibility lies elsewhere or refute statements. - Personal Choice: Insist on personal preferences (e.g., choosing another charity). - Information Inquiry: Ask for organizational information to delay or clarify. - Self Pity: Use self-centered reasons to reject donation. - Hesitance: Delay donation or express uncertainty. - Self-assertion: Explicitly refuse donation without justification. - Others: Unclear behaviors that hinder persuasion.
+Greet: Initiate conversation or engage in small talk.
+Inquire: Ask about product, year, price, condition, etc.
+Inform: Provide product details, year, condition, etc.
+Propose: Offer a specific price or price range.
+Counter: Suggest a new price or price range.
+Counter-noprice: Use vague comparative language to propose a price.
+Confirm: Ask questions to verify information.
+Affirm: Give a positive response to a confirmation question.
+Deny: Give a negative response to a confirmation question.
+Agree: Accept the proposed price.
+Disagree: Reject the proposed price.
+Source Derogation: Attack or question the opponent or item.
+Counter Argument: Provide impersonal arguments or factual rebuttals.
+Personal Choice: Give personal reasons for refusal or conditional acceptance.
+Information Inquiry: Request clarification or more information.
+Self Pity: Use self-pity to reject current conditions.
+Hesitance: Delay or show uncertainty in decision-making.
+Self-assertion: Assert a new claim or counter confidently.
+Others: Unclear behaviors that hinder negotiation.
+Informative: Provide clear, factual information to correct errors.
+Denouncing: Strongly condemn and reject hateful speech.
+Question: Ask thoughtful questions to challenge validity.
+Positive: Emphasize positive values and inclusiveness.
+Humour: Use humor to defuse hate speech.
+Other: Other creative response strategies.
+Informative: Provide factual information to challenge the other’s view.
+Denouncing: Strongly condemn the opponent’s viewpoint.
+Question: Challenge the validity or logic of the opponent’s statement.
+Positive: Emphasize positive values.
+Humour: Use humor to respond.
+Other: Other non-standard strategies.
+Logical Appeal: Use logical reasoning and evidence.
+Emotional Appeal: Evoke empathy, excitement, or emotional connection.
+Credibility Appeal: Emphasize reliability or expertise of the source.
+Foot-in-the-Door: Start with a small request before leading to a larger one.
+Self-Modeling: Demonstrate positive behavior to encourage imitation.
+Personal Story: Share personal experiences to increase empathy.
+Donation Information: Provide detailed information about donation use and impact.
+Source-Related Inquiry: Question the credibility of the source.
+Task-Related Inquiry: Ask about the person’s participation or commitment.
+Personal-Related Inquiry: Ask about personal experiences or values to build rapport.
+Other: Other creative persuasion strategies.
+Source Derogation: Attack or question the credibility of the organization.
+Counter Argument: Argue that responsibility lies elsewhere or refute statements.
+Personal Choice: Insist on personal preferences (e.g., choosing another charity).
+Information Inquiry: Ask for organizational information to delay or clarify.
+Self Pity: Use self-centered reasons to reject donation.
+Hesitance: Delay donation or express uncertainty.
+Self-assertion: Explicitly refuse donation without justification.
+Others: Unclear behaviors that hinder persuasion.
